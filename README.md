@@ -1,7 +1,6 @@
 ### Hi there! My Name is Adrian Townsend and I am a FullStack Developer 👋
 
-### Skills & Education
-
+## Skills & Education
 From graduating at Indian River State College I moved on to self taught education for software development. 
 Langauges and frameworks I specialize in are:
 * Javascript
@@ -11,7 +10,7 @@ Langauges and frameworks I specialize in are:
 * Jquery
 * HTML/CSS/Boostrap/Sass
 
-### Projects & Goals Acheived
+## Projects & Goals Acheived
 Over the years I have worked for multiple companies doing such work as 
 * Shopify store creation with theme customization & integrations
 * Wordpress site development through cPanel management
@@ -21,7 +20,7 @@ Over the years I have worked for multiple companies doing such work as
 
 Feel Free to explore my latest projects both my [twilio-api](https://github.com/adrianrtownsend/twilio-api) and [twilio-chat](https://github.com/adrianrtownsend/twilio-chat) applications!
 
-### Future Goals
+## Future Goals
 My future goals include moving into native mobile programming, more complex scaled application and environments and possibly game-development either inside or outside my language expertise.
 
 <!--
