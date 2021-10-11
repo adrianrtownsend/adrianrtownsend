@@ -8,6 +8,7 @@ Langauges and frameworks I specialize in are:
 * Node 
 * Graphql
 * AWS & Firebase
+* Github CI/CD Integration
 * HTML/CSS/Boostrap/Sass
 
 ## Projects & Goals Acheived
