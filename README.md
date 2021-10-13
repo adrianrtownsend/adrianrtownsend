@@ -21,7 +21,7 @@ Over the years I have worked for multiple companies doing such work as
 ## Future Goals
 My future goals include honing my skills in React/Native applications to create dynamic mobile applications that grow into high level tools. My goals afterwards are to move into Decentralized Applications and Blockchain development to be immersed in one of the new upcoming future technologies.
 
-## Feel free to explore my any of my projects! - My most recent projects are featured below in my pinned list
+## Feel free to explore my any of my projects! - My most recent projects are featured in my Pinned list
 
 <!--
 **adrianrtownsend/adrianrtownsend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
